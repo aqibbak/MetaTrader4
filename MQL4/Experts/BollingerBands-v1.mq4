@@ -1,6 +1,5 @@
 #include <stderror.mqh>
 #include <stdlib.mqh>
-
 #property copyright "ATSdev"
 #property link      "http://www.meetup.com/Toronto-Automated-Trading-Strategies-Deve"
 #property version   "1.00"
